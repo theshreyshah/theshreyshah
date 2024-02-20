@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shrey Shah</h1>
 <h3 align="center">A passionate and intrigued developer keen on exploring the depths of machine learning from Bharat</h3>
 
