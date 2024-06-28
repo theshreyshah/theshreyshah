@@ -15,6 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshreyshah&" alt="theshreyshah" /></p>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="center" src="<img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100" height="100">
 
 
 <!--
