@@ -15,7 +15,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshreyshah&" alt="theshreyshah" /></p>
 
-<p align="center"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" height="200"> </p>
+<p align="center"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" height="200"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" height="200"> </p>
+<img align="center" src="[https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)" width="200" height="200">
 
 
 <!--
