@@ -14,7 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshreyshah&show_icons=true&locale=en" alt="theshreyshah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshreyshah&" alt="theshreyshah" /></p>
-<img align="center" src="C:\Users\SHREY\Downloads\212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="center" src="https://drive.google.com/file/d/1gskpei9m3doKAuhA-SprJSbqm9C1bdX5/view?usp=drive_link">
 
 
 <!--
